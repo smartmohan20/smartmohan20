@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mlrathore28
+- 👋 Hi, I’m Mohan
 - 👨 I'm a passionate programmer
-- 💻 I'm quite handy with Java, C++, C, MySQL DB, HTML, CSS.
-- 🎓 I have successfully completed my under graduation in Bachelor of Computer Application (BCA).
+- 💻 I'm quite handy with Java, C++, C, MySQL DB, HTML, CSS
+- 🎓 I have successfully completed my under graduation in Bachelor of Computer Application (BCA)
 - 📚 I am pursuing Master of Computer Application (MCA)
 - 🌱 I’m currently learning Python
 
