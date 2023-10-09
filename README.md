@@ -4,6 +4,8 @@
   <p>🎯 Turning Code into Innovation 👨‍💻 Java, C++, SQL</p>
 </div>
 
+ ![Profile Animation Mohan Rathore](https://raw.githubusercontent.com/smartmohan20/smartmohan20/23672e17a5a75ec032e16217df0ff81a988a3591/profile_animation_mohan_rathore.svg)
+ 
 ## Summary
 👾 Dedicated software engineer skilled in Java, C++, and SQL. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
 
