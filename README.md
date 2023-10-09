@@ -1,4 +1,5 @@
 <div align="center" style="background-color: #000; color: #fff; padding: 20px;">
+  ![Github Logo](https://github.com/smartmohan20/smartmohan20/blob/main/readme_bg.jpg?raw=true)
   <h1>👋 Hello, I'm Mohan Rathore!</h1>
   <p>🚀 Passionate Software Engineer | 💡 Innovator | 🌐 Full Stack Developer</p>
   <p>🎯 Turning Code into Innovation 👨‍💻 Java, C++, SQL</p>
