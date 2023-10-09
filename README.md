@@ -70,6 +70,6 @@
 - 🛠️ Software Engineering
 
 ## Connect with me
-- [GitHub](https://github.com/smartmohan20/)
-- [LinkedIn](https://www.linkedin.com/in/smartmohan20/)
+- 🌐 [GitHub](https://github.com/smartmohan20/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/smartmohan20/)
 </div>
