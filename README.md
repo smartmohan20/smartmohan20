@@ -48,7 +48,7 @@
   - 📅 Jul 2019 - May 2022 | 📚 CGPA: 7.6/10.0
 
 ## Skills
-- 🧰 Languages: Java, C++, SQL, JavaScript, PHP
+- 🧰 Languages: Node.js, Java, C++, SQL, JavaScript, PHP
 - 🧩 Problem Solving, OOP, Data Structures
 - 🌐 Web Development: HTML/CSS, React Js, Vue.js, Laravel, REST APIs
 - 💾 Database: MySQL, Debugging, Postman, MySql Workbench
