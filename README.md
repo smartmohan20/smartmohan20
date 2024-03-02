@@ -2,13 +2,13 @@
 <div align="center" style="background-color: #000; color: #fff; padding: 20px;">
   <h1>👋 Hello, I'm Mohan Rathore!</h1>
   <p>🚀 Passionate Software Engineer | 💡 Innovator | 🌐 Full Stack Developer</p>
-  <p>🎯 Turning Code into Innovation 👨‍💻 Node.js, Java, C++, SQL, React Js</p>
+  <p>🎯 Turning Code into Innovation 👨‍💻 Java, Node.js, C++, SQL, React Js</p>
 </div>
 
 # ![Profile Animation Mohan Rathore](https://raw.githubusercontent.com/smartmohan20/smartmohan20/23672e17a5a75ec032e16217df0ff81a988a3591/profile_animation_mohan_rathore.svg)
  
 ## Summary
-👾 Dedicated software engineer skilled in Node.js, Java, C++, SQL, and React Js. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
+👾 Dedicated software engineer skilled in Java, Node.js, C++, SQL, and React Js. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
 
 ## Work Experience
 ### Associate Software Engineer
@@ -48,7 +48,7 @@
   - 📅 Jul 2019 - May 2022 | 📚 CGPA: 7.6/10.0
 
 ## Skills
-- 🧰 Languages: Node.js, Java, C++, SQL, JavaScript, PHP
+- 🧰 Languages: Java, Node.js, C++, SQL, JavaScript, PHP
 - 🧩 Problem Solving, OOP, Data Structures
 - 🌐 Web Development: HTML/CSS, React Js, Vue.js, Laravel, REST APIs
 - 💾 Database: MySQL, Debugging, Postman, MySql Workbench
