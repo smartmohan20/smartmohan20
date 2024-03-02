@@ -48,7 +48,7 @@
 ## Education
 - Master of Computer Applications
   - International Institute of Professional Studies, DAVV, Indore
-  - 📅 Jul 2019 - May 2022 | 📚 CGPA: 7.6/10.0
+  - 📅 Jul 2016 - May 2022 | 📚 CGPA: 7.6/10.0
 
 ## Skills
 - 🧰 Languages: Java, Node.js, C++, SQL, JavaScript, PHP
