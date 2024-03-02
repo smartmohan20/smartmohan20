@@ -10,37 +10,40 @@
 ## Summary
 👾 Dedicated software engineer skilled in Java, Node.js, C++, SQL, and React Js. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
 
-## Work Experience
+## WORK EXPERIENCE
 ### Associate Software Engineer
-🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd) 📅 Feb 2022 - Jan 2023 | 📍 New Jersey, USA
-- 🚀 Led a team, developed features, and resolved 100+ platform bugs.
-- 🌐 Implemented live integrations with Custify, Segment, and Mixpanel.
-- 💼 Collaborated with key stakeholders to enhance technical capabilities.
+🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd)
+📅 02/2022 - 01/2023 | 📍 New Jersey, United States
+- 🚀 Led integrations at Recruit CRM - Custify, Segment, Mixpanel, Profitwell - optimized data flow, features, and code for efficiency.
+- 🌐 Streamlined Custify, Segment, Mixpanel, Profitwell integration at Recruit CRM - focus on features, bugs, and code optimization.
+- 💡 Drove impactful integrations - Custify, Segment, Mixpanel, Profitwell - at Recruit CRM, shaping a dynamic ecosystem with enhanced features and optimized code.
 
 ### Freelance Software Engineer
-🔷 Freelancer 📅 Jan 2023 - Present | 📍 Pune, Maharashtra, India
-- 📊 Specialized in API result checking and data automation tools.
-- 🚀 Seamlessly integrated platforms through Zapier.
-- 🔗 Notable integrations include Jira, Trello, Confluence, Github.
+🔷 Freelancer
+📅 01/2023 - Present | 📍 Dewas, Madhya Pradesh, India
+- 📊 Accomplished Freelance Software Engineer, excelling in diverse technical triumphs and collaborative coding.
+- 🚀 Proven track record in projects, showcasing expertise. Seamless integrations optimize workflow efficiently.
+- 🔗 Integrated Jira, Github, Slack, and more, streamlining workflows effectively.
 
-### Programmer Analyst Trainee
-🔷 Cognizant 📅 Aug 2020 - Feb 2022 | 📍 Bengaluru, Karnataka, India
-- 👥 Collaborated in cross-functional engineering teams.
-- 🖥️ Developed high-quality code in Java.
-- 🧰 Utilized Git for effective code management.
+### Programmer Analyst
+🔷 Cognizant
+📅 08/2020 - 02/2022 | 📍 Bengaluru, Karnataka, India
+- 👥 Cross-functional in React, Node, MySQL, excels in remote collaboration.
+- 🖥️ On-site proficiency: Advanced in React, Node JS, tackling diverse challenges.
+- 🧰 Project leader: Masters React, Node JS, MySQL for seamless interfaces.
 
-## Projects
-### API Result Validation Platform
-- 🎯 Spearheaded state-of-the-art API result validation system.
-- 💡 Employed advanced algorithms to minimize error rates.
+## PROJECTS
+### Realtime Chat Application
+- 🚀 Developed a dynamic Realtime Chat Application demonstrating proficiency in WebSocket communication, user authentication, and creating engaging, interactive user experiences.
+- 🔄 Engineered a responsive solution showcasing real-time data synchronization, emphasizing a strong grasp on modern frontend technologies.
 
-### Data Automation Solutions
-- 📧 Crafted robust data automation tools for bulk email and messaging.
-- 🔄 Ensured seamless third-party integrations.
+### Task Management System
+- 🌐 Developed an intuitive Task Management System using React.js, seamlessly integrating a timeline for advanced planning.
+- 🧰 Implemented efficient cron job scheduling to automate task status updates and timely notifications, showcasing a proactive approach to project management.
 
-### Integration Excellence Hub
-- 🌐 Pioneered a comprehensive Integration Excellence Hub.
-- 🚀 Expertly deployed advanced APIs for real-time data synchronization.
+### Airline Management System
+- 💼 Contributed to a high-impact Airline Management System at Cognizant, demonstrating experience in large-scale projects with complex requirements.
+- 🌐 Utilized Node.js and React.js to build a comprehensive solution, emphasizing integrations, data management, and a user-friendly interface for optimal functionality.
 
 ## Education
 - Master of Computer Applications
