@@ -50,7 +50,7 @@
   - International Institute of Professional Studies, DAVV, Indore
   - 📅 Jul 2016 - May 2022 | 📚 CGPA: 7.6/10.0
 
-## Skills
+## SKILLS
 - 🧰 Languages: Java, Node.js, C++, SQL, JavaScript, PHP
 - 🧩 Problem Solving, OOP, Data Structures
 - 🌐 Web Development: HTML/CSS, React Js, Vue.js, Laravel, REST APIs
@@ -58,11 +58,20 @@
 - 🚀 Methodologies: Agile, Scrum, Project Management, Confluence
 - 📈 Data Analysis, Integration, Leadership
 
-## Achievements
-- 🏆 HackerRank 5 Star Gold Badge in Problem Solving, Java, C++, and SQL (Feb 2022)
+## ACHIEVEMENTS
+- 🏆 Integration Specialist | Recruit CRM (2022 - 2023)
+  Bridging gaps, optimizing operations, and driving digital transformation through seamless data integration.
+- 🏆 Outstanding Collaboration Achievement | Recruit CRM (2022 - 2023)
+  Recognized for fostering innovation through effective teamwork and collaboration with leadership and support teams.
+- 🏆 HackerRank 5-Star Gold Badge - Problem Solving, Java, C++, SQL (02/2022)
+  Achieved a distinguished 5-Star Gold Badge on HackerRank, demonstrating advanced proficiency in Problem Solving, Java, C++, and SQL programming languages.
 
 ## Certificates
-- 📜 Great Learning Certificates in Data Structure & Algorithms in Java, Java Programming, OOPs in Java, SQL, SQL and Relational Databases 101 (2021)
+1. 🏆 HackerRank 5-Star Gold Badge - Proficiency in Problem Solving, Java, C++, SQL (Feb 2022)
+2. 📜 Great Learning Certificates - Mastery in Data Structure & Algorithms in Java, Java Programming, OOPs in Java, SQL and Relational Databases 101 (2021)
+3. 📜 SQL Certificates | Hackerrank - Basic (09/2021) & Intermediate (09/2021) - HSB.png, HSI.png
+4. 📜 SQL Certificate | IBM - Awarded for completing IBM's SQL certification (08/2021)
+5. 📜 Personality Assessment Certificate | Snaphunt - Received for a successful personality assessment on Snaphunt (06/2023)
 
 ## Languages
 - 🇬🇧 English (Native or Bilingual Proficiency)
