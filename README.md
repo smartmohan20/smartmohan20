@@ -126,7 +126,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=rest&logoColor=white" alt="REST APIs">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Microsoft Visual Studio Code (VSCode)">
 </a>
 <a href="https://www.eclipse.org/" target="_blank">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
@@ -148,9 +148,6 @@
 </a>
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Microsoft Visual Studio Code (VSCode)">
 </a>
 
 </div>
