@@ -87,6 +87,7 @@
 ## Connect with me
 - 🌐 [GitHub](https://github.com/smartmohan20/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/smartmohan20/)
+- 💻 [HackerRank](https://www.hackerrank.com/profile/smartmohan20)
 
 ## Tools and Technologies
 <a href="https://www.java.com/" target="_blank">
