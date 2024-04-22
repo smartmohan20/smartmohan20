@@ -11,19 +11,19 @@
 👾 Dedicated software engineer skilled in Java, Node.js, C++, SQL, and React Js. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
 
 ## WORK EXPERIENCE
-### Associate Software Engineer
-🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd)
-📅 02/2022 - 01/2023 | 📍 New Jersey, United States
-- 🚀 Led integrations at Recruit CRM - Custify, Segment, Mixpanel, Profitwell, Intercom - optimized data flow, features, and code for efficiency.
-- 🌐 Streamlined Custify, Segment, Mixpanel, Profitwell, Intercom integration at Recruit CRM - focus on features, bugs, and code optimization.
-- 💡 Drove impactful integrations - Custify, Segment, Mixpanel, Profitwell, Intercom - at Recruit CRM, shaping a dynamic ecosystem with enhanced features and optimized code.
-
 ### Passionate Software Engineer
 🔷 Freelancer
 📅 01/2023 - Present | 📍 Dewas, Madhya Pradesh, India
 - 📊 Accomplished Freelance Software Engineer, excelling in diverse technical triumphs and collaborative coding.
 - 🚀 Proven track record in projects, showcasing expertise. Seamless integrations optimize workflow efficiently.
 - 🔗 Integrated Jira, Github, Slack, and more, streamlining workflows effectively.
+
+### Associate Software Engineer
+🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd)
+📅 02/2022 - 01/2023 | 📍 New Jersey, United States
+- 🚀 Led integrations at Recruit CRM - Custify, Segment, Mixpanel, Profitwell, Intercom - optimized data flow, features, and code for efficiency.
+- 🌐 Streamlined Custify, Segment, Mixpanel, Profitwell, Intercom integration at Recruit CRM - focus on features, bugs, and code optimization.
+- 💡 Drove impactful integrations - Custify, Segment, Mixpanel, Profitwell, Intercom - at Recruit CRM, shaping a dynamic ecosystem with enhanced features and optimized code.
 
 ### Programmer Analyst
 🔷 Cognizant
