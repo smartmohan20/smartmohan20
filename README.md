@@ -28,9 +28,8 @@
 ### Programmer Analyst
 🔷 Cognizant
 📅 08/2020 - 02/2022 | 📍 Bengaluru, Karnataka, India
-- 👥 Actively participated in cross-functional engineering teams, contributing to live client projects as a backend developer.
-- 🖥️ Demonstrated proficiency in developing optimized, readable, and reusable code, utilizing Git for effective code management.
-- 🧰 Cultivated a positive work environment, fostering productivity and successful collaborations within large-scale team environments.
+- 🚀 Developed high-quality, reusable code in collaborative, cross-functional teams.
+- 🧰 Demonstrated proficiency in fostering a positive work environment and effective code management with Git.
 
 ## PROJECTS
 ### SaleStream: Streamlined E-Commerce Platform
