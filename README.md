@@ -28,22 +28,22 @@
 ### Programmer Analyst
 🔷 Cognizant
 📅 08/2020 - 02/2022 | 📍 Bengaluru, Karnataka, India
-- 👥 Cross-functional in React, Node, MySQL, excels in remote collaboration.
-- 🖥️ On-site proficiency: Advanced in React, Node JS, tackling diverse challenges.
-- 🧰 Project leader: Masters React, Node JS, MySQL for seamless interfaces.
+- 👥 Actively participated in cross-functional engineering teams, contributing to live client projects as a backend developer.
+- 🖥️ Demonstrated proficiency in developing optimized, readable, and reusable code, utilizing Git for effective code management.
+- 🧰 Cultivated a positive work environment, fostering productivity and successful collaborations within large-scale team environments.
 
 ## PROJECTS
-### Realtime Chat Application
-- 🚀 Developed a dynamic Realtime Chat Application demonstrating proficiency in WebSocket communication, user authentication, and creating engaging, interactive user experiences.
-- 🔄 Engineered a responsive solution showcasing real-time data synchronization, emphasizing a strong grasp on modern frontend technologies.
+### SaleStream: Streamlined E-Commerce Platform
+- 🚀 Effortless online shopping experience for customers & retailers. Seamlessly manage products, orders, and payments
+- 🔄 Efficiently handles shopping, product management, & payments. Enhances online retail experience with Java & MySQL.
 
-### Task Management System
-- 🌐 Developed an intuitive Task Management System using React.js, seamlessly integrating a timeline for advanced planning.
+### AeroFlow: Efficient Airline Management Platform
+- 💼 Contributed to a high-impact Airline Management System at Cognizant, demonstrating experience in large-scale projects with complex requirements. 
+- 🌐 Utilized Java, and React.js to build a comprehensive solution, emphasizing integrations, data management, and a user-friendly interface for optima
+
+  ### TaskEase: Seamless Task Management Solution
+- 🌐 Developed an intuitive Task Management System using React.js, seamlessly integrating timeline for advanced planning
 - 🧰 Implemented efficient cron job scheduling to automate task status updates and timely notifications, showcasing a proactive approach to project management.
-
-### Airline Management System
-- 💼 Contributed to a high-impact Airline Management System at Cognizant, demonstrating experience in large-scale projects with complex requirements.
-- 🌐 Utilized Node.js and React.js to build a comprehensive solution, emphasizing integrations, data management, and a user-friendly interface for optimal functionality.
 
 ## Education
 - Master of Computer Applications
