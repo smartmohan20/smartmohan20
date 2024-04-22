@@ -18,7 +18,7 @@
 - 🌐 Streamlined Custify, Segment, Mixpanel, Profitwell, Intercom integration at Recruit CRM - focus on features, bugs, and code optimization.
 - 💡 Drove impactful integrations - Custify, Segment, Mixpanel, Profitwell, Intercom - at Recruit CRM, shaping a dynamic ecosystem with enhanced features and optimized code.
 
-### Freelance Software Engineer
+### Passionate Software Engineer
 🔷 Freelancer
 📅 01/2023 - Present | 📍 Dewas, Madhya Pradesh, India
 - 📊 Accomplished Freelance Software Engineer, excelling in diverse technical triumphs and collaborative coding.
@@ -47,8 +47,8 @@
 
 ## Education
 - Master of Computer Applications
-  - International Institute of Professional Studies, DAVV, Indore
-  - 📅 Jul 2016 - May 2022 | 📚 CGPA: 7.6/10.0
+  - International Institute of Professional Studies, Devi Ahilya Vishwavidyalaya, Indore (NAAC A+ Grade, 24th Rank)
+  - 📅 Jul 2019 - May 2022 | 📚 CGPA: 7.6/10.0
 
 ## SKILLS
 - 🧰 Languages: Java, Node.js, C++, SQL, JavaScript, PHP
