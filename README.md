@@ -41,7 +41,7 @@
 - 💼 Contributed to a high-impact Airline Management System at Cognizant, demonstrating experience in large-scale projects with complex requirements. 
 - 🌐 Utilized Java, and React.js to build a comprehensive solution, emphasizing integrations, data management, and a user-friendly interface for optima
 
-  ### TaskEase: Seamless Task Management Solution
+### TaskEase: Seamless Task Management Solution
 - 🌐 Developed an intuitive Task Management System using React.js, seamlessly integrating timeline for advanced planning
 - 🧰 Implemented efficient cron job scheduling to automate task status updates and timely notifications, showcasing a proactive approach to project management.
 
