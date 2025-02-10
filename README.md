@@ -2,21 +2,21 @@
 <div align="center" style="background-color: #000; color: #fff; padding: 20px;">
   <h1>👋 Hello, I'm Mohan Rathore!</h1>
   <p>🚀 Passionate Software Engineer | 💡 Innovator | 🌐 Full Stack Developer</p>
-  <p>🎯 Turning Code into Innovation 👨‍💻 Java, Node.js, C++, SQL, React Js</p>
+  <p>🎯 Turning Code into Innovation 👨‍💻 Node.js, React.js, Java, SQL</p>
 </div>
 
 # ![Profile Animation Mohan Rathore](https://raw.githubusercontent.com/smartmohan20/smartmohan20/23672e17a5a75ec032e16217df0ff81a988a3591/profile_animation_mohan_rathore.svg)
  
 ## Summary
-👾 Dedicated software engineer skilled in Java, Node.js, C++, SQL, and React Js. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
+👾 Dedicated software engineer skilled in Node.js, React.js, Java, and SQL. 🚀 Passionate about innovation and full-stack development. 🌟 Goal: Transforming code into innovative solutions, ensuring data accuracy, and enabling seamless integrations.
 
 ## WORK EXPERIENCE
-### Passionate Software Engineer
-🔷 Freelancer
+### Senior Software Engineer
+🔷 Monkh AI
 📅 01/2023 - Present | 📍 Dewas, Madhya Pradesh, India
-- 📊 Accomplished Freelance Software Engineer, excelling in diverse technical triumphs and collaborative coding.
+- 📊 Accomplished Senior Software Engineer, excelling in diverse technical triumphs and collaborative coding.
 - 🚀 Proven track record in projects, showcasing expertise. Seamless integrations optimize workflow efficiently.
-- 🔗 Integrated Jira, Github, Slack, and more, streamlining workflows effectively.
+- 🔗 Integrated GPT API, Meta API, Google API, Waka API, Github, Slack, and more, streamlining workflows effectively.
 
 ### Associate Software Engineer
 🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd)
@@ -50,10 +50,10 @@
   - 📅 Jul 2019 - May 2022 | 📚 CGPA: 7.6/10.0
 
 ## SKILLS
-- 🧰 Languages: Java, Node.js, C++, SQL, JavaScript, PHP
+- 🧰 Languages: Node.js, React.js, Java, SQL, JavaScript, PHP
 - 🧩 Problem Solving, OOP, Data Structures
 - 🌐 Web Development: HTML/CSS, React Js, Vue.js, Laravel, REST APIs
-- 💾 Database: MySQL, Debugging, Postman, MySql Workbench
+- 💾 Database: MySQL, PostgreSql, MongoDB, Debugging, Postman, MySql Workbench
 - 🚀 Methodologies: Agile, Scrum, Project Management, Jira,  Confluence
 - 📈 Data Analysis, Integration, Leadership
 
