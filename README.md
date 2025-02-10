@@ -16,7 +16,7 @@
 📅 01/2023 - Present | 📍 Dewas, Madhya Pradesh, India
 - 📊 Accomplished Senior Software Engineer, excelling in diverse technical triumphs and collaborative coding.
 - 🚀 Proven track record in projects, showcasing expertise. Seamless integrations optimize workflow efficiently.
-- 🔗 Integrated GPT API, Meta API, Google API, Waka API, Github, Slack, and more, streamlining workflows effectively.
+- 🔗 Integrated GPT API, Meta API, Google API, Cloud Storage, Cloud DB, Cloud Redis Provider, OAuth, Waka API, Github, Slack, and more, streamlining workflows effectively.
 
 ### Associate Software Engineer
 🔷 Recruit CRM (Workforce Cloud Tech Pvt Ltd)
