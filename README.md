@@ -93,5 +93,5 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
 - 🎯 [GitHub](https://github.com/smartmohan20/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/smartmohan20/)
 - 💻 [HackerRank](https://www.hackerrank.com/profile/smartmohan20)
-- 📧 [Email](career.smartmohan@gmail.com)
+- 📧 [Email](mailto:career.smartmohan@gmail.com)
 
