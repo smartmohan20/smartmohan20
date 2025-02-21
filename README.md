@@ -11,7 +11,7 @@ I am passionate about Coding, Software Engineering, and Building Innovative Solu
 
 Welcome! I am thrilled to share my background and journey in the field of software development.
 
-🎓 Education: I completed my Master of Computer Applications from International Institute of Professional Studies, DAVV Indore. This educational foundation helped me develop strong analytical skills and technical knowledge that I apply in my daily work.
+🎓 Education: I completed my Master of Computer Applications from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). This educational foundation helped me develop strong analytical skills and technical knowledge that I apply in my daily work.
 
 💻 Skills: With a solid foundation in software engineering, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various technologies including Node.js, React.js, Java, SQL, JavaScript, and PHP. I excel in designing integrated systems and optimizing data workflows.
 
