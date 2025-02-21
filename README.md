@@ -26,26 +26,12 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
 ## 🛠️ Skills & Technologies
 
 <p align="left">
+  <!-- Backend Technologies -->
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js">
-  </a>
-   <a href="https://www.java.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=rest&logoColor=white" alt="REST APIs">
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
@@ -53,21 +39,100 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
   </a>
+  
+  <!-- Core Programming Languages -->
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+
+  <!-- Front-End Technologies (Limited) -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js">
+  </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-  </a>
-   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
   <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS">
   </a>
+  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  
+  <!-- API & Integration -->
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=rest&logoColor=white" alt="REST APIs">
+  </a>
+  <a href="https://developers.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google API">
+  </a>
+  <a href="https://developers.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Meta_API-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta API">
+  </a>
+  <a href="https://openai.com/blog/openai-api" target="_blank">
+    <img src="https://img.shields.io/badge/GPT_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT APIs">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank">
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket">
+  </a>
+  
+  <!-- Cloud & DevOps -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloud_Storage-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Cloud Storage">
+  </a>
+  <a href="https://www.digitalocean.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Digital Ocean">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  </a>
+  
+  <!-- Version Control & CI/CD -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+  </a>
+  
+  <!-- Automation Tools -->
+  <a href="https://zapier.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier">
+  </a>
+  <a href="https://automationanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Automations-3776AB?style=flat-square&logo=probot&logoColor=white" alt="Automations">
+  </a>
+  <a href="https://workflow.is/" target="_blank">
+    <img src="https://img.shields.io/badge/Workflows-4285F4?style=flat-square&logo=apachearrow&logoColor=white" alt="Workflows">
+  </a>
+  <a href="https://ifttt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Integrations-000000?style=flat-square&logo=ifttt&logoColor=white" alt="Integrations">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Scripting">
+  </a>
+  
+  <!-- Development Tools -->
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
   </a>
@@ -80,11 +145,24 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
   </a>
+  
+  <!-- Project Management -->
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank">
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
+  </a>
+  
+  <!-- Soft Skills -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Project Management">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Teamwork-0078D4?style=flat-square&logo=microsoftteams&logoColor=white" alt="Teamwork">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Leadership-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Leadership">
   </a>
 </p>
 
