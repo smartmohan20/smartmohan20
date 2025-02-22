@@ -166,6 +166,10 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
   </a>
 </p>
 
+## 📊 Contribution Graph
+
+[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph)
+
 ## 📫 Connect With Me
 
 <a href="https://github.com/smartmohan20/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -173,5 +177,4 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
 <a href="https://www.hackerrank.com/profile/smartmohan20" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 <a href="mailto:career.smartmohan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph)
 
