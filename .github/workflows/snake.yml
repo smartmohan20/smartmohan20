@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Runs every 5 minutes
+    - cron: "*/5 * * * *"  # Every 5 min
   workflow_dispatch:
 
 jobs:
@@ -10,12 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Ensure dist folder exists
       - name: Create dist folder
         run: mkdir -p dist
 
+      # Generate Snake using Docker (default)
       - name: Generate Snake (SVG + GIF)
         uses: Platane/snk@v3
         with:
@@ -24,8 +27,8 @@ jobs:
           outputs: |
             svg=dist/github-snake.svg
             gif=dist/github-snake.gif
-          entryPoint: "snk"   # Run in runner, not Docker
 
+      # Commit and push generated files to main
       - name: Commit & Push Snake
         run: |
           git config user.name "github-actions[bot]"
@@ -36,5 +39,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Verify files
       - name: List dist folder
         run: ls -l dist
