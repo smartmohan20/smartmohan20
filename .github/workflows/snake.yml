@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # Runs every day at midnight
-  workflow_dispatch:        # Allows you to run manually
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,19 +14,51 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate Snake (SVG + GIF)
-        uses: Platane/snk@master
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            svg=dist/github-snake.svg
+            gif=dist/github-snake.gif
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit & push (only if files exist)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Ensure remote is configured to push using the provided token
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
+          # Build list of generated files
+          files=""
+          [ -f dist/github-snake.svg ] && files="$files dist/github-snake.svg"
+          [ -f dist/github-snake.gif ] && files="$files dist/github-snake.gif"
+
+          if [ -n "$files" ]; then
+            git add $files
+            # Only commit if there are changes
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "Update GitHub Snake"
+              git push origin HEAD
+            fi
+          else
+            echo "No generated snake files found; skipping commit and push"
+          fi
+
+      - name: Verify files
+        run: ls -l dist || true
