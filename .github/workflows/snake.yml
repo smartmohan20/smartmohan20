@@ -1,32 +1,44 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:   # Run manually
   schedule:
-    - cron: "*/5 * * * *"  # Optional, every 5 min
+    - cron: "*/5 * * * *"   # Every 5 minutes
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your repo (optional if you need it)
+      # Step 1: Checkout the repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Create output folder
+      # Step 2: Create dist folder
       - name: Create dist folder
         run: mkdir -p dist
 
-      # Generate Snake locally
-      - name: Generate Snake (SVG + GIF locally)
+      # Step 3: Generate Snake and write to local dist
+      - name: Generate Snake (SVG + GIF)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             svg=dist/github-snake.svg
             gif=dist/github-snake.gif
 
-      # Optional: View files in logs
-      - name: List generated files
+      # Step 4: Commit and push generated files to the same branch (main)
+      - name: Commit & Push Snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-snake.svg dist/github-snake.gif
+          git commit -m "Update GitHub Snake contribution graph" || echo "No changes to commit"
+          git push origin HEAD
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Optional: List files to verify
+      - name: List dist folder
         run: ls -l dist
