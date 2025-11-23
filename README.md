@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Rathore</h1>
-<h3 align="center">A passionate Software Engineer from Pune, India</h3>
+<h3 align="center">A Lead Software Engineer from Guwahati, India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
@@ -166,9 +166,9 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
   </a>
 </p>
 
-## 📊 Contribution Graph
+<!-- ## 📊 Contribution Graph
 
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph)
+[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph) -->
 
 ## 📫 Connect With Me
 
