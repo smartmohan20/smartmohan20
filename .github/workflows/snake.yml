@@ -17,6 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Create dist folder
         run: mkdir -p dist
@@ -30,7 +31,16 @@ jobs:
             svg=dist/github-snake.svg
             gif=dist/github-snake.gif
 
-      - name: Commit & push (only if files exist)
+      - name: Show generated files (debug)
+        run: |
+          echo "Working directory: $(pwd)"
+          echo "Listing repository root:"
+          ls -la
+          echo "Listing dist folder contents:"
+          ls -la dist || echo "dist is empty or missing"
+
+      - name: Commit & push only when generated files exist and changed
+        if: ${{ always() }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -39,26 +49,119 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Ensure remote is configured to push using the provided token
+          # Ensure pushing uses the provided token
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
 
-          # Build list of generated files
+          # Determine current branch name
+          BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+          echo "Current branch: $BRANCH"
+
+          # Gather only existing generated files
           files=""
           [ -f dist/github-snake.svg ] && files="$files dist/github-snake.svg"
           [ -f dist/github-snake.gif ] && files="$files dist/github-snake.gif"
 
-          if [ -n "$files" ]; then
-            git add $files
-            # Only commit if there are changes
-            if git diff --staged --quiet; then
-              echo "No changes to commit"
-            else
-              git commit -m "Update GitHub Snake"
-              git push origin HEAD
-            fi
-          else
-            echo "No generated snake files found; skipping commit and push"
+          if [ -z "$files" ]; then
+            echo "No generated files found (dist/github-snake.svg or dist/github-snake.gif); skipping commit."
+            exit 0
           fi
 
+          # Add files and commit only if there are staged changes
+          git add $files
+
+          # If nothing staged (no changes), exit cleanly
+          if git diff --cached --quiet; then
+            echo "No changes to generated files; nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub Snake"
+          git push origin "HEAD:${BRANCH}"
+
       - name: Verify files
-        run: ls -l dist || true
+        run: |
+          echo "Final dist listing:"
+          ls -la dist || echo "dist missing"name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            svg=dist/github-snake.svg
+            gif=dist/github-snake.gif
+
+      - name: Show generated files (debug)
+        run: |
+          echo "Working directory: $(pwd)"
+          echo "Listing repository root:"
+          ls -la
+          echo "Listing dist folder contents:"
+          ls -la dist || echo "dist is empty or missing"
+
+      - name: Commit & push only when generated files exist and changed
+        if: ${{ always() }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Ensure pushing uses the provided token
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+
+          # Determine current branch name
+          BRANCH="$(git rev-parse --abbrev-ref HEAD)"
+          echo "Current branch: $BRANCH"
+
+          # Gather only existing generated files
+          files=""
+          [ -f dist/github-snake.svg ] && files="$files dist/github-snake.svg"
+          [ -f dist/github-snake.gif ] && files="$files dist/github-snake.gif"
+
+          if [ -z "$files" ]; then
+            echo "No generated files found (dist/github-snake.svg or dist/github-snake.gif); skipping commit."
+            exit 0
+          fi
+
+          # Add files and commit only if there are staged changes
+          git add $files
+
+          # If nothing staged (no changes), exit cleanly
+          if git diff --cached --quiet; then
+            echo "No changes to generated files; nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Update GitHub Snake"
+          git push origin "HEAD:${BRANCH}"
+
+      - name: Verify files
+        run: |
+          echo "Final dist listing:"
+          ls -la dist || echo "dist missing"
