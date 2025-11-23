@@ -154,6 +154,7 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
     <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
   </a>
   
+  
   <!-- Soft Skills -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Project_Management-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Project Management">
@@ -167,8 +168,18 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
 </p>
 
 <!-- ## 📊 Contribution Graph
-
 [![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph) -->
+
+<!-- ### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smartmohan20&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartmohan20&layout=compact&theme=radical" height="170"/>
+</p> -->
+
+<!-- ### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=smartmohan20&theme=dark&hide_border=true" />
+</p> -->
 
 ## 📫 Connect With Me
 
