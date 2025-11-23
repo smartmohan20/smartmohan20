@@ -1,22 +1,25 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:   # Run manually
   schedule:
-    - cron: "*/5 * * * *"  # Every 5 minutes
-  workflow_dispatch:
+    - cron: "*/5 * * * *"  # Optional, every 5 min
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout your repo (optional if you need it)
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Create output folder
       - name: Create dist folder
         run: mkdir -p dist
 
-      - name: Generate Snake (SVG + GIF)
+      # Generate Snake locally
+      - name: Generate Snake (SVG + GIF locally)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,11 +27,6 @@ jobs:
             svg=dist/github-snake.svg
             gif=dist/github-snake.gif
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Optional: View files in logs
+      - name: List generated files
+        run: ls -l dist
