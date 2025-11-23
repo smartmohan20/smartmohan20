@@ -166,9 +166,9 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
   </a>
 </p>
 
-## 📊 Contribution Graph
+<!-- ## 📊 Contribution Graph
 
-[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph)
+[![Mohan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smartmohan20&bg_color=000000&color=fafafa&line=e2dfdf&point=16e212&area=true&hide_border=true)](https://github.com/smartmohan20/github-readme-activity-graph) -->
 
 ## 📫 Connect With Me
 
