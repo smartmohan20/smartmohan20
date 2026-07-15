@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohan Rathore</h1>
-<h3 align="center">A Lead Software Engineer from Guwahati, India</h3>
+<h3 align="center">A Lead Software Engineer from India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-I am Mohan Rathore, with over 4 years of experience in software development, specializing in full-stack development and API integrations.
+I am Mohan Rathore, with over 6 years of experience in software development, specializing in full-stack development and API integrations.
 <br/>
 I am a tech enthusiast & problem solver. I am always open to exploring new technologies and working on challenging projects.
 <br/>
@@ -11,9 +11,9 @@ I am passionate about Coding, Software Engineering, and Building Innovative Solu
 
 Welcome! I am thrilled to share my background and journey in the field of software development.
 
-🎓 Education: I completed my Master of Computer Applications from [International Institute of Professional Studies , DAVV Indore](http://iips.edu.in/). This educational foundation helped me develop strong analytical skills and technical knowledge that I apply in my daily work.
+🎓 Education: I completed my Master of Computer Applications from [Devi Ahilya Vishwavidyalaya, Indore](https://www.dauniv.ac.in/). This educational foundation helped me develop strong analytical skills and technical knowledge that I apply in my daily work.
 
-💻 Skills: With a solid foundation in software engineering, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various technologies including Node.js, React.js, Java, SQL, JavaScript, and PHP. I excel in designing integrated systems and optimizing data workflows.
+💻 Skills: With a solid foundation in software engineering, my expertise extends across both front-end and back-end development. I have cultivated a strong skill set in various technologies including Java, Node.js, React.js, SQL, JavaScript, and PHP. I excel in designing integrated systems and optimizing data workflows.
 
 📚 Continuous Growth: I am perpetually seeking new challenges and opportunities to enhance my skills and stay ahead with emerging technologies. The ever-evolving nature of the software development field excites me, and I am committed to continuous learning and innovation.
 
@@ -27,11 +27,11 @@ Welcome! I am thrilled to share my background and journey in the field of softwa
 
 <p align="left">
   <!-- Backend Technologies -->
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
